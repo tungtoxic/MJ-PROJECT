@@ -13,7 +13,7 @@ const Biography = () => {
   // Gọi API
   useEffect(() => {
     axios
-      .get("http://localhost:5001/api/bios")
+      .get("https://mj-server-api.onrender.com/api/bios")
       .then((res) => {
         const sortedData = res.data.sort((a, b) => a.chapterId - b.chapterId);
         setBioData(sortedData);

@@ -23,7 +23,7 @@ const Player = () => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:5001/api/eras")
+      .get("https://mj-server-api.onrender.com/api/eras")
       .then((res) => {
         const sortedEras = res.data.sort(
           (a, b) => parseInt(a.years) - parseInt(b.years)
