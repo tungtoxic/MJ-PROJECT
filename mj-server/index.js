@@ -12,7 +12,7 @@ const app = express();
 app.use(express.json());
 app.use(
   cors({
-    origin: ["http://localhost:5173", "https://LINK-VERCEL-CUA-BAN.vercel.app"],
+    origin: ["https://mj-server-api.onrender.com"],
     credentials: true,
   })
 ); // Cho phép React gọi vào
