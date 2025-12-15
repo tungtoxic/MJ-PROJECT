@@ -12,7 +12,7 @@ const app = express();
 app.use(express.json());
 app.use(
   cors({
-    origin: ["https://mj-server-api.onrender.com"],
+    origin: "*",
     credentials: true,
   })
 ); // Cho phép React gọi vào
