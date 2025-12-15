@@ -1,0 +1,660 @@
+[
+  {
+    "name": "Off The Wall",
+    "years": "1979 - 1981",
+    "description": "Kỷ nguyên của niềm vui thuần khiết và sự giải phóng. Tách ra khỏi The Jackson 5, Michael đã tạo nên sự pha trộn tinh tế giữa Disco, Funk và Soul. Đó là âm thanh của một thiên tài trẻ tuổi tìm thấy tiếng nói riêng của mình trên sàn nhảy.",
+    "themeColor": "#4c1d95",
+    "secondaryColor": "#000000",
+    "backgroundImage": "off_the_wall_bg.jpg",
+    "songs": [
+      {
+        "title": "Don't Stop 'Til You Get Enough",
+        "year": 1979,
+        "duration": "6:05",
+        "trivia": "Giải Grammy solo đầu tiên của Michael. Giọng gió (falsetto) cao đến mức các nhà phê bình ban đầu không tin đó là anh ấy."
+      },
+      {
+        "title": "Rock with You",
+        "year": 1979,
+        "duration": "3:40",
+        "trivia": "Được viết bởi Rod Temperton. Một bản Disco nhịp vừa phải, được coi là một trong những bản hit vĩ đại cuối cùng của kỷ nguyên Disco."
+      },
+      {
+        "title": "Workin' Day and Night",
+        "year": 1979,
+        "duration": "5:13",
+        "trivia": "Một bản Funk tràn đầy năng lượng, nơi MJ sử dụng chính tiếng thở dốc và beatbox của mình làm một phần của nhịp điệu bộ gõ."
+      },
+      {
+        "title": "Get on the Floor",
+        "year": 1979,
+        "duration": "4:37",
+        "trivia": "Đồng sáng tác bởi Louis Johnson (tay bass). Bài hát sở hữu một trong những câu bass nổi tiếng và phức tạp nhất lịch sử Disco."
+      },
+      {
+        "title": "Off the Wall",
+        "year": 1979,
+        "duration": "4:06",
+        "trivia": "Ca khúc chủ đề đã trở thành bài thánh ca cho việc rũ bỏ mọi phiền muộn và tận hưởng cuộc sống trên sàn nhảy."
+      },
+      {
+        "title": "Girlfriend",
+        "year": 1979,
+        "duration": "3:04",
+        "trivia": "Được Paul McCartney viết riêng cho Michael. Bài hát đã khơi mào cho tình bạn của họ, dẫn đến những màn hợp tác sau này."
+      },
+      {
+        "title": "She's Out of My Life",
+        "year": 1979,
+        "duration": "3:38",
+        "trivia": "Một bản Ballad đầy cảm xúc được thu âm chỉ trong một lần (one take). Michael đã thực sự bật khóc ở cuối bản thu."
+      },
+      {
+        "title": "I Can't Help It",
+        "year": 1979,
+        "duration": "4:29",
+        "trivia": "Một kiệt tác Jazz-Soul tinh tế được viết bởi Stevie Wonder, phô diễn khả năng kiểm soát giọng hát điêu luyện của MJ."
+      },
+      {
+        "title": "It's the Falling in Love",
+        "year": 1979,
+        "duration": "3:47",
+        "trivia": "Một bản Soul-Pop mượt mà với sự góp giọng của ca sĩ R&B Patti Austin."
+      },
+      {
+        "title": "Burn This Disco Out",
+        "year": 1979,
+        "duration": "3:41",
+        "trivia": "Ca khúc khép lại album. Một bài Funk rực lửa được thiết kế để giữ năng lượng luôn ở mức cao ngay cả khi đĩa nhạc kết thúc."
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "The Tuxedo",
+        "imageUrl": "tuxedo.png",
+        "story": "Bộ vest tuxedo đen cổ điển và nơ đen từ bìa album, đại diện cho sự thanh lịch và sự trưởng thành của anh từ một ngôi sao nhí."
+      },
+      {
+        "name": "Sparkling Socks",
+        "imageUrl": "sparkling_socks.png",
+        "story": "Sự xuất hiện đầu tiên của đôi tất đính đá tùy chỉnh, thứ sau này trở thành dấu ấn hình ảnh thương hiệu của anh."
+      }
+    ],
+    "signatureMove": {
+      "name": "The Spin",
+      "videoUrl": "spin.mp4",
+      "description": "Cú xoay 360 độ nhanh như chớp, được thực hiện với sự cân bằng hoàn hảo, thường dùng để chuyển tiếp giữa các động tác nhảy."
+    },
+    "quote": "\"I want it to be perfect. I want it to be magic.\" (Tôi muốn nó phải hoàn hảo. Tôi muốn nó phải là phép màu.)"
+  },
+  {
+    "name": "Thriller",
+    "years": "1982 - 1986",
+    "description": "Đỉnh cao của nhạc Pop. Pha trộn chất Funk của kỷ nguyên trước với Rock và lối kể chuyện điện ảnh. Nó đã phá vỡ mọi kỷ lục và rào cản chủng tộc, biến Michael Jackson thành ngôi sao lớn nhất hành tinh.",
+    "themeColor": "#991b1b",
+    "secondaryColor": "#000000",
+    "backgroundImage": "thriller_bg.jpg",
+    "songs": [
+      {
+        "title": "Wanna Be Startin' Somethin'",
+        "year": 1982,
+        "duration": "6:03",
+        "trivia": "Được viết bởi MJ. Đoạn chant 'Mama-say mama-sah' nổi tiếng ở cuối là sự tri ân đối với âm nhạc Châu Phi (Soul Makossa)."
+      },
+      {
+        "title": "Baby Be Mine",
+        "year": 1982,
+        "duration": "4:20",
+        "trivia": "Được viết bởi Rod Temperton. Bài hát giữ lại chất Disco-Funk sôi động của kỷ nguyên Off The Wall."
+      },
+      {
+        "title": "The Girl Is Mine",
+        "year": 1982,
+        "duration": "3:42",
+        "trivia": "Một bản song ca vui tươi với Paul McCartney. Đây thực ra là đĩa đơn đầu tiên được phát hành từ album, khiến nhiều người hâm mộ bất ngờ."
+      },
+      {
+        "title": "Thriller",
+        "year": 1982,
+        "duration": "5:57",
+        "trivia": "Tên gốc là 'Starlight'. MV dài 14 phút này đã cách mạng hóa ngành công nghiệp âm nhạc mãi mãi."
+      },
+      {
+        "title": "Beat It",
+        "year": 1982,
+        "duration": "4:18",
+        "trivia": "MJ muốn viết một bài Rock. Bài hát có đoạn solo guitar huyền thoại của Eddie Van Halen."
+      },
+      {
+        "title": "Billie Jean",
+        "year": 1982,
+        "duration": "4:54",
+        "trivia": "Dựa trên những câu chuyện có thật về các fan cuồng (groupies). MJ đã hát qua một ống các-tông để tạo ra âm thanh độc đáo."
+      },
+      {
+        "title": "Human Nature",
+        "year": 1982,
+        "duration": "4:06",
+        "trivia": "Một bản Synth-Pop Ballad mộng mơ được viết bởi Steve Porcaro từ ban nhạc Toto. Nó cho thấy khía cạnh mềm mỏng, dễ tổn thương của MJ."
+      },
+      {
+        "title": "P.Y.T. (Pretty Young Thing)",
+        "year": 1982,
+        "duration": "3:59",
+        "trivia": "Bản Funk tràn đầy năng lượng. Các chị em của MJ, Janet và La Toya Jackson, đã đảm nhận phần hát bè 'na-na-na'."
+      },
+      {
+        "title": "The Lady in My Life",
+        "year": 1982,
+        "duration": "5:00",
+        "trivia": "MJ đã tắt đèn khi thu âm để lấy cảm xúc. Anh muốn người nghe cảm thấy như anh đang cầu xin."
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Red Leather Jacket",
+        "imageUrl": "thriller_jacket.png",
+        "story": "Chiếc áo khoác da đỏ hình chữ V được thiết kế bởi Deborah Nadoolman. Nó đã trở thành món đồ thời trang hot nhất thập niên 80."
+      },
+      {
+        "name": "Zombie Mask",
+        "imageUrl": "zombie_mask.png",
+        "story": "Lớp hóa trang giả được sử dụng trong video Thriller đã biến chàng ca sĩ điển trai thành một xác sống đáng sợ."
+      }
+    ],
+    "signatureMove": {
+      "name": "Zombie Dance",
+      "videoUrl": "zombie_dance.mp4",
+      "description": "Vũ đạo cứng nhắc với bàn tay vuốt sắc nhọn đã trở thành điệu nhảy được flash-mob nhiều nhất trong lịch sử."
+    },
+    "quote": "\"No one wants to be defeated.\" (Không ai muốn bị đánh bại cả.)"
+  },
+  {
+    "name": "Bad",
+    "years": "1987 - 1990",
+    "description": "Kỷ nguyên thể hiện một MJ gai góc và bụi bặm hơn. Về mặt hình ảnh, nó được định hình bởi những chiếc áo da đầy khóa sắt. Về mặt âm nhạc, nó khẳng định danh hiệu 'Vua nhạc Pop' và chuyến lưu diễn solo đầu tiên của anh đã phá vỡ mọi kỷ lục.",
+    "themeColor": "#000000",
+    "secondaryColor": "#C0C0C0",
+    "backgroundImage": "bad_subway.jpg",
+    "songs": [
+      {
+        "title": "Bad",
+        "year": 1987,
+        "duration": "4L05",
+        "trivia": "Ban đầu được dự định là một bản song ca với Prince, nhưng Prince đã từ chối. MV được đạo diễn bởi huyền thoại điện ảnh Martin Scorsese."
+      },
+      {
+        "title": "The Way You Make Me Feel",
+        "year": 1987,
+        "duration": "4:58",
+        "trivia": "Một bản Pop/R&B tán tỉnh đầy lãng tử. Đây là bài hát MJ thường diễn với một cô gái khách mời trên sân khấu."
+      },
+      {
+        "title": "Speed Demon",
+        "year": 1987,
+        "duration": "4:02",
+        "trivia": "Nổi tiếng với video clip hoạt hình đất sét (claymation) trong bộ phim Moonwalker, nơi MJ thi nhảy với chú thỏ Spike."
+      },
+      {
+        "title": "Liberian Girl",
+        "year": 1987,
+        "duration": "3:52",
+        "trivia": "Một bản nhạc mang không gian bí ẩn và quyến rũ. MV bài hát này quy tụ dàn sao Hollywood lớn nhất thời bấy giờ."
+      },
+      {
+        "title": "Just Good Friends",
+        "year": 1987,
+        "duration": "4:06",
+        "trivia": "Bản song ca sôi động với Stevie Wonder. Hai thiên tài âm nhạc đối đáp nhau trên nền nhạc Funk mạnh mẽ."
+      },
+      {
+        "title": "Another Part of Me",
+        "year": 1987,
+        "duration": "3:54",
+        "trivia": "Được sử dụng trong bộ phim 4D 'Captain EO' của Disney. Bài hát mang lại cảm giác hào hứng của một chuyến du hành vũ trụ."
+      },
+      {
+        "title": "Man in the Mirror",
+        "year": 1987,
+        "duration": "5:18",
+        "trivia": "Thánh ca về sự thay đổi bản thân. MJ không tự viết bài này (do Siedah Garrett viết), nhưng ông đã biến nó thành màn trình diễn tâm linh nhất của mình."
+      },
+      {
+        "title": "I Just Can't Stop Loving You",
+        "year": 1987,
+        "duration": "4:11",
+        "trivia": "Bản ballad ngọt ngào song ca với Siedah Garrett. MJ đã thu âm bài hát này khi đang nằm trên giường để tạo cảm giác thân mật."
+      },
+      {
+        "title": "Dirty Diana",
+        "year": 1987,
+        "duration": "4:40",
+        "trivia": "Bản Hard Rock nặng đô nhất của MJ. Công nương Diana đã tiết lộ đây là bài hát bà yêu thích nhất của Michael."
+      },
+      {
+        "title": "Smooth Criminal",
+        "year": 1987,
+        "duration": "4:17",
+        "trivia": "Tuyệt phẩm kể chuyện về tội phạm. Nhịp tim mở đầu và tiếng thở dốc đã tạo nên sự kịch tính nghẹt thở ngay từ giây đầu tiên."
+      },
+      {
+        "title": "Leave Me Alone",
+        "year": 1987,
+        "duration": "4:40",
+        "trivia": "Lời đáp trả đanh thép của MJ đối với báo chí lá cải. Bài hát chỉ xuất hiện trong phiên bản CD của album."
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Buckled Jacket",
+        "imageUrl": "bad_jacket.png",
+        "story": "Chiếc áo khoác da đen với hàng loạt khóa sắt và dây đai kiểu quân đội, định hình phong cách 'trai hư' (bad boy) của kỷ nguyên này."
+      },
+      {
+        "name": "The White Fedora",
+        "imageUrl": "fedora_hat.png",
+        "story": "Chiếc mũ phớt trắng trong Smooth Criminal đã trở thành đạo cụ biểu diễn mang tính biểu tượng, thường được ném xuống khán giả."
+      }
+    ],
+    "signatureMove": {
+      "name": "Anti-Gravity Lean",
+      "videoUrl": "moonwalk.mp4",
+      "description": "Cú nghiêng người 45 độ bất chấp trọng lực trong Smooth Criminal. MJ đã phải đăng ký bằng sáng chế cho đôi giày đặc biệt để thực hiện nó."
+    },
+    "quote": "\"I'm not going to be singing the same kind of songs. I want to do something that's totally different.\" (Tôi sẽ không hát mãi một kiểu bài hát. Tôi muốn làm thứ gì đó hoàn toàn khác biệt.)"
+  },
+  {
+    "name": "Dangerous",
+    "years": "1991 - 1994",
+    "description": "Kỷ nguyên của sự đổi mới công nghệ và thông điệp xã hội. Tách khỏi Quincy Jones, MJ hợp tác với Teddy Riley để tạo ra dòng nhạc New Jack Swing (tiếng trống đanh thép). Album mang màu sắc hoàng gia, bí ẩn và chứa đựng những thông điệp mạnh mẽ nhất về chủng tộc và hành tinh.",
+    "themeColor": "#ca8a04",
+    "secondaryColor": "#000000",
+    "backgroundImage": "dangerous_gold.jpg",
+    "songs": [
+      {
+        "title": "Jam",
+        "year": 1991,
+        "duration": "5:38",
+        "trivia": "Bài hát mở màn với tiếng kính vỡ chói tai. MV có sự góp mặt của huyền thoại bóng rổ Michael Jordan. Hai MJ vĩ đại cùng nhảy với nhau."
+      },
+      {
+        "title": "Why You Wanna Trip on Me",
+        "year": 1991,
+        "duration": "5:23",
+        "trivia": "Lời đáp trả truyền thông: 'Tại sao lại soi mói tôi trong khi thế giới còn bao nhiêu vấn đề: bệnh tật, mù chữ, băng đảng?'."
+      },
+      {
+        "title": "In the Closet",
+        "year": 1991,
+        "duration": "6:30",
+        "trivia": "Ban đầu được viết như một bản song ca với Madonna. Bài hát nổi bật với tiếng thì thầm quyến rũ và nhịp điệu dồn dập."
+      },
+      {
+        "title": "She Drives Me Wild",
+        "year": 1991,
+        "duration": "3:39",
+        "trivia": "MJ đã thu âm tiếng động cơ xe hơi, tiếng còi xe và tiếng đóng cửa xe để tạo nên beat nhạc độc đáo cho bài này."
+      },
+      {
+        "title": "Remember the Time",
+        "year": 1991,
+        "duration": "3:59",
+        "trivia": "MV lấy bối cảnh Ai Cập cổ đại với kỹ xảo hoành tráng. MJ bị trật chân trước khi quay nên hầu hết các cảnh nhảy ông đều phải ngồi hoặc hạn chế di chuyển."
+      },
+      {
+        "title": "Can't Let Her Get Away",
+        "year": 1991,
+        "duration": "4:58",
+        "trivia": "Một bản New Jack Swing điển hình với tiết tấu nhanh. MJ thể hiện kỹ thuật beatbox điêu luyện ở phần cuối bài."
+      },
+      {
+        "title": "Heal the World",
+        "year": 1991,
+        "duration": "6:24",
+        "trivia": "Bài hát MJ tự hào nhất trong sự nghiệp sáng tác. Ông đã thành lập quỹ từ thiện cùng tên để giúp đỡ trẻ em trên toàn thế giới."
+      },
+      {
+        "title": "Black or White",
+        "year": 1991,
+        "duration": "4:15",
+        "trivia": "Tuyên ngôn chống phân biệt chủng tộc với đoạn guitar riff kinh điển. MV sử dụng công nghệ Morphing (biến đổi khuôn mặt) tiên tiến nhất thời bấy giờ."
+      },
+      {
+        "title": "Give In to Me",
+        "year": 1991,
+        "duration": "5:28",
+        "trivia": "Một bản Hard Rock Ballad u tối. Có sự tham gia của Slash (tay guitar huyền thoại nhóm Guns N' Roses)."
+      },
+      {
+        "title": "Who Is It",
+        "year": 1991,
+        "duration": "6:33",
+        "trivia": "Một trong những bài hát có tiếng Bass trầm và nặng nhất của MJ. Nó kể về sự phản bội và nỗi đau dằn xé tâm can."
+      },
+      {
+        "title": "Will You Be There",
+        "year": 1991,
+        "duration": "7:40",
+        "trivia": "Nhạc phim 'Free Willy'. Bài hát mang âm hưởng thánh ca (Gospel) với đoạn mở đầu và kết thúc đầy xúc động như một lời cầu nguyện."
+      },
+      {
+        "title": "Gone Too Soon",
+        "year": 1991,
+        "duration": "3:21",
+        "trivia": "Được viết để tưởng nhớ Ryan White, một thiếu niên qua đời vì AIDS. Bài hát thể hiện sự đồng cảm sâu sắc của MJ với những số phận bất hạnh."
+      },
+      {
+        "title": "Keep the Faith",
+        "year": 1991,
+        "duration": "5:56",
+        "trivia": "Một bài thánh ca khích lệ tinh thần. MJ muốn người nghe giữ vững niềm tin vào bản thân dù gặp bất cứ khó khăn nào."
+      },
+      {
+        "title": "Dangerous",
+        "year": 1991,
+        "duration": "7:00",
+        "trivia": "Bài hát chủ đề với âm thanh công nghiệp (Industrial). MJ thì thầm kể về một người phụ nữ nguy hiểm, tạo nên không khí nghẹt thở và đầy cám dỗ."
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Gold Fencing Jacket",
+        "imageUrl": "gold_jacket.png",
+        "story": "Chiếc áo đấu kiếm màu vàng kim mặc trong tour diễn Dangerous. Nó tượng trưng cho vị thế 'Vua' và sự xa hoa của kỷ nguyên này."
+      },
+      {
+        "name": "LED Light Suit",
+        "imageUrl": "led_suit.png",
+        "story": "Bộ đồ gắn đèn LED có thể lập trình để nhấp nháy theo nhạc, được dùng để kết màn show diễn, biến MJ thành ánh sáng thực thụ."
+      }
+    ],
+    "signatureMove": {
+      "name": "Toe Stand",
+      "videoUrl": "toe_stand.mp4",
+      "description": "Cú đứng trên mũi chân (Freeze). MJ dồn toàn bộ trọng lượng cơ thể lên đầu mũi chân và giữ yên bất động, tạo nên khoảnh khắc ngưng đọng thời gian."
+    },
+    "quote": "\"To live is to be musical, starting with the blood dancing in your veins.\" (Sống là phải có âm nhạc, bắt đầu từ dòng máu đang nhảy múa trong huyết quản của bạn.)"
+  },
+  {
+    "name": "HIStory",
+    "years": "1995 - 2000",
+    "description": "Kỷ nguyên cá nhân và giận dữ nhất. Michael phản kháng lại truyền thông và sự bất công bằng âm nhạc. Đây là sự kết hợp giữa sự hùng tráng của dàn nhạc giao hưởng và những nhịp điệu công nghiệp thô ráp, nơi ông trút bỏ mọi nỗi đau ra ánh sáng.",
+    "themeColor": "#334155",
+    "secondaryColor": "#000000",
+    "backgroundImage": "history_statue.jpg",
+    "songs": [
+      {
+        "title": "Scream",
+        "year": 1995,
+        "duration": "4:38",
+        "trivia": "Song ca với em gái Janet Jackson. Đây là lời đáp trả trực diện đầu tiên với truyền thông. MV của bài hát vẫn giữ kỷ lục đắt đỏ nhất lịch sử (7 triệu USD)."
+      },
+      {
+        "title": "They Don't Care About Us",
+        "year": 1995,
+        "duration": "4:44",
+        "trivia": "Bài hát sử dụng ban nhạc trống Olodum từ Brazil. Nhịp điệu dồn dập được thiết kế để nghe như nhịp đập trái tim của một cuộc cách mạng."
+      },
+      {
+        "title": "Stranger in Moscow",
+        "year": 1995,
+        "duration": "5:44",
+        "trivia": "Được viết khi MJ đang cô đơn một mình trong phòng khách sạn ở Nga vào một ngày mưa. Tiếng beat chính là tiếng beatbox của Michael được làm chậm lại."
+      },
+      {
+        "title": "This Time Around",
+        "year": 1995,
+        "duration": "4:21",
+        "trivia": "Có sự góp giọng của rapper huyền thoại The Notorious B.I.G. Bài hát nói về cảm giác bị bao vây bởi những kẻ muốn lợi dụng sự nổi tiếng của ông."
+      },
+      {
+        "title": "Earth Song",
+        "year": 1995,
+        "duration": "6:46",
+        "trivia": "Bản hit lớn nhất của MJ tại Châu Âu. Một bản Opera-Blues hùng vĩ về môi trường, kết thúc bằng tiếng gào thét tuyệt vọng giữa cơn bão nhân tạo."
+      },
+      {
+        "title": "D.S.",
+        "year": 1995,
+        "duration": "4:49",
+        "trivia": "Một bản Rock 'n' Roll châm biếm. Lời bài hát tấn công trực tiếp vào Thomas Sneddon (Dom Sheldon), vị công tố viên đã tìm cách buộc tội MJ."
+      },
+      {
+        "title": "Tabloid Junkie",
+        "year": 1995,
+        "duration": "4:32",
+        "trivia": "Lời chỉ trích gay gắt nhắm vào những kẻ nghiện tin đồn nhảm. Beat nhạc độc đáo được tạo ra từ tiếng màn trập máy ảnh và tiếng gõ bàn phím."
+      },
+      {
+        "title": "You Are Not Alone",
+        "year": 1995,
+        "duration": "5:45",
+        "trivia": "Bài hát đầu tiên trong lịch sử âm nhạc ra mắt ngay tại vị trí số 1 trên bảng xếp hạng Billboard Hot 100."
+      },
+      {
+        "title": "HIStory",
+        "year": 1995,
+        "duration": "6:37",
+        "trivia": "Ca khúc chủ đề hào hùng, sử dụng hàng loạt trích dẫn âm thanh lịch sử (như tiếng của Martin Luther King Jr.), khẳng định vị thế di sản của MJ."
+      },
+      {
+        "title": "Ghosts",
+        "year": 1997,
+        "duration": "5:14",
+        "trivia": "Từ bộ phim ngắn dài 40 phút cùng tên. MJ đóng vai 5 nhân vật khác nhau, sử dụng âm nhạc để chế giễu những kẻ phán xét ngoại hình và tính cách lập dị của ông."
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "Gold Pants",
+        "imageUrl": "gold_pants.png",
+        "story": "Chiếc quần vàng ánh kim vị lai được thiết kế bởi Versace, mặc trong HIStory World Tour, trở thành biểu tượng của sự hào nhoáng cuối cùng."
+      },
+      {
+        "name": "Armband Armor",
+        "imageUrl": "history_armor.png",
+        "story": "Bộ giáp tay kiểu cảnh sát quân sự, tượng trưng cho tâm thế 'chiến binh' của anh trong cuộc chiến chống lại những cáo buộc sai trái."
+      }
+    ],
+    "signatureMove": {
+      "name": "The Drill",
+      "videoUrl": "drill.mp4",
+      "description": "Vũ đạo đội hình quân đội, sắc bén và dứt khoát, mô phỏng các động tác diễu binh, khớp hoàn hảo với tiếng trống trận."
+    },
+    "quote": "\"In the end, the most important thing is to be true to yourself.\" (Cuối cùng, điều quan trọng nhất là hãy sống thật với chính mình.)"
+  },
+  {
+    "name": "Invincible",
+    "years": "2001 - 2008",
+    "description": "Kỷ nguyên của sự hoàn hảo về kỹ thuật âm thanh. Đây là album phòng thu cuối cùng của Michael, nơi ông thử nghiệm R&B hiện đại, Neo-soul và những âm thanh kỹ thuật số đi trước thời đại. Một kiệt tác bị đánh giá thấp nhưng sở hữu chất lượng sản xuất đỉnh cao nhất.",
+    "themeColor": "#3f3f46",
+    "secondaryColor": "#ffffff",
+    "backgroundImage": "invincible_bg.jpg",
+    "songs": [
+      {
+        "title": "Unbreakable",
+        "year": 2001,
+        "duration": "6:25",
+        "trivia": "Bài mở đầu với sự góp giọng rap của The Notorious B.I.G. (đã qua đời). MJ muốn khẳng định rằng dù trải qua bao sóng gió, ông vẫn 'không thể bị phá vỡ'."
+      },
+      {
+        "title": "Heartbreaker",
+        "year": 2001,
+        "duration": "5:09",
+        "trivia": "Một bản R&B tốc độ cao với những âm thanh cắt nhỏ, giật cục (glitch) cực kỳ hiện đại, được coi là tiền thân của dòng nhạc Dubstep sau này."
+      },
+      {
+        "title": "Invincible",
+        "year": 2001,
+        "duration": "4:45",
+        "trivia": "Ca khúc chủ đề với tiếng Bass cực nặng. Nó là lời tuyên bố đanh thép về vị thế độc tôn của MJ trước những kẻ muốn hạ bệ ông."
+      },
+      {
+        "title": "Break of Dawn",
+        "year": 2001,
+        "duration": "5:31",
+        "trivia": "Một trong những bản tình ca quyến rũ nhất sự nghiệp MJ. Giai điệu êm đềm và giọng hát mượt mà như nhung."
+      },
+      {
+        "title": "Heaven Can Wait",
+        "year": 2001,
+        "duration": "4:48",
+        "trivia": "MJ đã từ chối để nhóm NSYNC thu âm bài này vì muốn giữ nó cho riêng mình. Một bản Ballad da diết về việc không muốn lên thiên đường nếu phải rời xa người yêu."
+      },
+      {
+        "title": "You Rock My World",
+        "year": 2001,
+        "duration": "5:37",
+        "trivia": "Đĩa đơn hit cuối cùng sinh thời. Mang âm hưởng Disco vui tươi, MV có sự tham gia của diễn viên hài Chris Tucker và huyền thoại Marlon Brando."
+      },
+      {
+        "title": "Butterflies",
+        "year": 2001,
+        "duration": "4:39",
+        "trivia": "Tuyệt phẩm Neo-soul nơi MJ hát gần như toàn bộ bằng giọng gió (falsetto), ngọt ngào và bay bổng đúng như tên gọi 'Những cánh bướm'."
+      },
+      {
+        "title": "Speechless",
+        "year": 2001,
+        "duration": "3:18",
+        "trivia": "Được MJ viết ngay sau một trận ném bóng nước với trẻ em ở Đức. Bài hát mở đầu và kết thúc bằng giọng hát mộc (Acapella) đầy xúc động."
+      },
+      {
+        "title": "2000 Watts",
+        "year": 2001,
+        "duration": "4:24",
+        "trivia": "Bài hát gây sốc vì giọng MJ trầm đến mức khó nhận ra. Ông đã hát ở quãng trầm nhất của mình trên nền beat điện tử cực mạnh."
+      },
+      {
+        "title": "You Are My Life",
+        "year": 2001,
+        "duration": "4:33",
+        "trivia": "Một bản Ballad nhẹ nhàng, chân thành được MJ viết tặng riêng cho các con của mình."
+      },
+      {
+        "title": "Privacy",
+        "year": 2001,
+        "duration": "5:05",
+        "trivia": "Tiếng máy ảnh chớp liên tục được dùng làm nhạc cụ trong beat. Đây là lời cảnh cáo giận dữ gửi tới cánh săn ảnh (paparazzi) đã xâm phạm đời tư của ông."
+      },
+      {
+        "title": "Don't Walk Away",
+        "year": 2001,
+        "duration": "4:24",
+        "trivia": "Một bản Ballad buồn với tiếng Piano êm dịu, nói về nỗi đau và sự cầu xin khi người yêu rời bỏ."
+      },
+      {
+        "title": "The Lost Children",
+        "year": 2001,
+        "duration": "3:59",
+        "trivia": "Bài hát dành tặng cho tất cả những đứa trẻ bị thất lạc trên thế giới, với âm thanh của khu rừng và giọng cười của trẻ thơ."
+      },
+      {
+        "title": "Whatever Happens",
+        "year": 2001,
+        "duration": "4:55",
+        "trivia": "Sự kết hợp Latin-Pop độc đáo. Tiếng Guitar điêu luyện trong bài được chơi bởi huyền thoại Carlos Santana."
+      },
+      {
+        "title": "Threatened",
+        "year": 2001,
+        "duration": "4:19",
+        "trivia": "Ca khúc khép lại album mang màu sắc kinh dị (giống Thriller), sử dụng giọng dẫn chuyện của Rod Serling từ loạt phim 'The Twilight Zone'."
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "White Fedora",
+        "imageUrl": "white_fedora_smooth.png",
+        "story": "Trong kỷ nguyên này, MJ thường đội chiếc mũ trắng (như trong MV You Rock My World), gợi nhớ lại hình ảnh Smooth Criminal nhưng với phong thái ông trùm."
+      },
+      {
+        "name": "Silver Shirt",
+        "imageUrl": "silver_shirt.png",
+        "story": "Phong cách thời trang giai đoạn này tối giản và hiện đại hơn, thường là những chiếc áo sơ mi lụa màu bạc hoặc đơn sắc."
+      }
+    ],
+    "signatureMove": {
+      "name": "Shoulder Dust",
+      "videoUrl": "shoulder_dust.mp4",
+      "description": "Động tác phủi bụi trên vai đầy ngạo nghễ, thể hiện thái độ tự tin 'bất khả chiến bại' (Invincible)."
+    },
+    "quote": "\"The best is yet to come.\" (Điều tuyệt vời nhất vẫn còn ở phía trước.)"
+  },
+  {
+    "name": "Xscape",
+    "years": "2014 - Vĩnh cửu",
+    "description": "Chương cuối và sự tái sinh. Dù Michael đã ra đi, âm nhạc của ông vẫn sống dậy mạnh mẽ hơn bao giờ hết. Album này là minh chứng cho thấy Michael Jackson không chỉ là một huyền thoại, ông là 'Vị chúa của Âm nhạc', người kể chuyện vĩ đại với những giai điệu đi xuyên thời gian.",
+    "themeColor": "#94a3b8",
+    "secondaryColor": "#FFD700",
+    "backgroundImage": "xscape_bg.jpg",
+    "songs": [
+      {
+        "title": "Chicago",
+        "year": 2014,
+        "duration": "4:05",
+        "trivia": "Bản gốc là 'She Was Loving Me'. Một tuyệt phẩm về cách kể chuyện, nơi giọng hát gằn và tiếng beat được tạo ra từ chính hơi thở của MJ khiến người nghe 'nổi da gà'."
+      },
+      {
+        "title": "Love Never Felt So Good",
+        "year": 2014,
+        "duration": "3:55",
+        "trivia": "Bản song ca với Justin Timberlake. Giai điệu vui tươi, hồn nhiên mang lại cảm giác hạnh phúc ngập tràn của một tình yêu chớm nở."
+      },
+      {
+        "title": "Loving You",
+        "year": 2014,
+        "duration": "3:15",
+        "trivia": "Một bản R&B ngọt ngào được thu âm từ thời kỷ nguyên Bad. Bài hát cho thấy khía cạnh lãng mạn, êm đềm và mượt mà của Michael."
+      },
+      {
+        "title": "A Place with No Name",
+        "year": 2014,
+        "duration": "5:35",
+        "trivia": "Cải biên từ bài hát kinh điển 'A Horse with No Name'. MJ đã biến nó thành một chuyến hành trình bí ẩn trên sa mạc bằng chất giọng đầy mê hoặc."
+      },
+      {
+        "title": "Slave to the Rhythm",
+        "year": 2014,
+        "duration": "4:16",
+        "trivia": "Nổi tiếng với màn trình diễn Hologram. Tiếng dây xích va đập và tiếng Bass dồn dập tạo nên một trải nghiệm âm thanh cực kỳ 'đã tai'."
+      },
+      {
+        "title": "Do You Know Where Your Children Are",
+        "year": 2014,
+        "duration": "4:36",
+        "trivia": "Một thông điệp xã hội sâu sắc về những đứa trẻ bỏ nhà đi bụi. Bài hát được viết từ thời Bad/Dangerous nhưng thông điệp vẫn còn nguyên giá trị."
+      },
+      {
+        "title": "Blue Gangsta",
+        "year": 2014,
+        "duration": "4:14",
+        "trivia": "Mang vibe của một ông trùm Gangster si tình. Cách phối khí với tiếng đàn Accordion tạo nên không khí kịch tính như một bộ phim điện ảnh."
+      },
+      {
+        "title": "Xscape",
+        "year": 2014,
+        "duration": "4:05",
+        "trivia": "Ca khúc chủ đề khép lại album. Nó nói về áp lực của sự nổi tiếng và khao khát được trốn thoát (Escape) để tìm lại sự tự do."
+      }
+    ],
+    "artifacts": [
+      {
+        "name": "The Hologram",
+        "imageUrl": "hologram.png",
+        "story": "Sự tái sinh kỹ thuật số của Vua nhạc Pop trên sân khấu năm 2014. Một khoảnh khắc lịch sử khiến cả thế giới xúc động và tin rằng ông vẫn ở đây."
+      },
+      {
+        "name": "The Golden Throne",
+        "imageUrl": "throne.png",
+        "story": "Chiếc ngai vàng xuất hiện trong các hình ảnh quảng bá album, khẳng định vị thế độc tôn: Chỉ có một Vua nhạc Pop duy nhất."
+      }
+    ],
+    "signatureMove": {
+      "name": "Immortal Dance",
+      "videoUrl": "hologram_dance.mp4",
+      "description": "Không phải một động tác cụ thể, mà là tinh thần của MJ sống mãi trong từng bước nhảy của thế hệ sau. Ông đã trở thành một biểu tượng vĩnh cửu."
+    },
+    "quote": "\"I am just a person who wants to be honest and do good. I want to make people happy. (Tôi chỉ là một người muốn sống chân thành và làm điều tốt. Tôi muốn mang lại hạnh phúc cho mọi người.)"
+  }
+]
